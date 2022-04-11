@@ -1,0 +1,16 @@
+{
+  "name": "menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "styles": "sass styles/scss/styles.scss styles/css/styles.css -w",
+    "build-styles": "sass styles/scss/styles.scss styles/css/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.50.0"
+  }
+}
